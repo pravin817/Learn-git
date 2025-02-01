@@ -1,7 +1,6 @@
 # Learn Git and Github.
 
 
-The best place to learn git and github.
+- The best place to learn git and github.
+- Nice see you guys !!!
 
-
-Nice to see you !!!
