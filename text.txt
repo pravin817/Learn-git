@@ -1,1 +1,4 @@
 This is the text file.
+
+
+New lines added.
