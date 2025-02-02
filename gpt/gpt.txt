@@ -1,0 +1,2 @@
+This file contains all code for the ChatGpt integration in our application.
+
