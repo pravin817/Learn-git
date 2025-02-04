@@ -5,4 +5,5 @@
 - Nice see you guys !!!
 - New message added.
 - Welcome to github !!!
+- This is an example for the handling merge conflict.
 
